@@ -3,7 +3,7 @@
 # About me <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3af.png" width="29px">
 
 <h2 align="center">
-  Hi I'm Peppe. I'm from italy and I'm 18 y.o.
+  Hi I'm Peppe. I'm from italy and I'm 19 y.o.
 </h2>
 <p>
   <ul>
