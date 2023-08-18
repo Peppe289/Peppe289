@@ -1,70 +1,61 @@
+<h1 align="center">About me</h1>
 
+###
 
-# About me <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3af.png" width="29px">
+<p align="left">Hi I'm Peppe. I'm from italy and I'm 19 y.o.  I'm working for random projects.</p>
 
-<h2 align="center">
-  Hi I'm Peppe. I'm from italy and I'm 19 y.o.
-</h2>
-<p>
-  <ul>
-    <li>
-      <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f477-2642.png" style="width: 17px">
-      I'm working for <b>random projects</b>
-    </li>
-    <li>
-      <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f5a5.png" style="width: 17px">
-      I use <b>arch</b>
-    </li>
-    <li>
-      <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f408.png" style="width: 17px">
-      I love <b>cat</b>
-    </li>
-    <li>
-      <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a4.png" style="width: 17px">
-      Don't ask me <b>anything<b>
-    </li>
-  </ul>
-</p>
+###
 
-Profile view
----
-<p align="center">
-  <img src="https://profile-counter.glitch.me/Peppe289/count.svg" alt="vistor count" height="30"/>
-</p>
+<h3 align="center">Languages ​​used</h3>
 
-Languages
----
-<p align="center">
-  <a>
-    <img src="https://skillicons.dev/icons?i=js,html,css,c,cpp,bash,python,kotlin">
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+</div>
+
+###
+
+<h3 align="center">My social link</h3>
+
+###
+
+<div align="center">
+  <a href="https://twitter.com/Peppe2892" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-</p>
-
-Tool
----
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,vscode,linux">
-</p>
-
-Social
----
-<p align="center">
-  <a href="https://www.linkedin.com/in/giuseppe-speranza-88b5ba22a/"
-    style="margin: 5px; text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=linkedin">
+  <a href="https://www.instagram.com/gsperanza204/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://www.instagram.com/gsperanza204/"
-    style="margin: 5px; text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=instagram">
+  <a href="https://t.me/peppe289" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
   </a>
-</p>
+</div>
 
-My Stats:
----
-<p align="center">
-  <!--
-  <a>
-    <img src="https://github-profile-trophy.vercel.app/?username=Peppe289&theme=onedark">
-  </a> -->
-  <img width="550" src="https://github-readme-stats.vercel.app/api?username=peppe289&&show_icons=true&icon_color=a3a3a3&text_color=ffffff&bg_color=000000">
-</p>
+###
+
+<h2 align="center">Stats</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Peppe289&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Peppe289&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Peppe289&locale=en&mode=weekly&theme=merko&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Peppe289/Peppe289/output/snake.svg" alt="Snake animation" />
+
+###
