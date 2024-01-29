@@ -38,7 +38,7 @@
 
 ###
 
-<h2 align="left">Statistics 🔥</h2>
+<h2 align="left">My Stats 🔥</h2>
 
 ###
 
